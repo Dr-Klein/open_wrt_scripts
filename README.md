@@ -15,8 +15,8 @@ Instruction:
 
 3. Change the rights and run:	
 
-	chmod +x *.sh 
-	./get_certs
+	```chmod +x *.sh``` 
+	```./get_certs```
 
 Notice:
 
