@@ -14,7 +14,9 @@ Instruction:
 	NUMB_COUNTRYS - Sets the number of countries for which certificates. 
 	will be downloaded, the default parameter is 35, which corresponds to all 36 countries.
 
-3. Change the rights and run:	
+3. Change the rights and run:
+	
+	```cd get_certs```
 
 	```chmod +x *.sh```
 	
