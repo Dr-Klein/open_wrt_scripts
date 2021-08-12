@@ -5,7 +5,7 @@ Instruction:
 
 1. Cloning repository:
 
-	```git clone https://github.com/Dr-Klein/open_wrt_scripts/get_certs```
+	```git clone https://github.com/Dr-Klein/open_wrt_scripts```
 	
 2. Set the user-friendly parameters in the get_certs.sh file. For example:
 	
