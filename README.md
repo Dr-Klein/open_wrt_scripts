@@ -10,6 +10,7 @@ Instruction:
 2. Set the user-friendly parameters in the get_certs.sh file. For example:
 	
 	MAX_CHILDREN - Sets the maximum number of streams, by default 10.
+	
 	NUMB_COUNTRYS - Sets the number of countries for which certificates. 
 	will be downloaded, the default parameter is 35, which corresponds to all 36 countries.
 
