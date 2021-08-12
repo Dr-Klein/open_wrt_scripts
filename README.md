@@ -16,9 +16,7 @@ Instruction:
 
 3. Change the rights and run:
 	
-	```cd get_certs```
-
-	```chmod +x *.sh```
+	```cd open_wrt_scripts/get_certs```
 	
 	```./get_certs```
 
