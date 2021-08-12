@@ -20,7 +20,7 @@ Instruction:
 	
 	```chmod +x *.sh```
 	
-	```./get_certs```
+	```./get_certs.sh```
 
 Notice:
 
