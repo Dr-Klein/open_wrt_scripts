@@ -18,6 +18,8 @@ Instruction:
 	
 	```cd open_wrt_scripts/get_certs```
 	
+	```chmod +x *.sh```
+	
 	```./get_certs```
 
 Notice:
